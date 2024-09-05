@@ -21,3 +21,58 @@ Text Domain:  accelerate-theme-child
 .button {
 	background: #45ab9d;
 }
+
+.blog-post {
+  width: 50%;
+  float: left;
+  margin-bottom: 2em;
+}
+
+.blog-post h4 {
+  font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-sarif;
+  color: #a6a6a6;
+  text-transform: uppercase;
+  margin: 2em 0 .5em;
+}
+
+.blog-post h3 {
+  font-size: 1.5em;
+}
+
+.read-more-link {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color: #45ac9d;
+  text-transform: uppercase;
+}
+
+aside.case-study-sidebar {
+  float: left;
+  width: 300px;
+  font: 'Montserrat', 'Open Sans', Arial, sans-sarif;
+  margin-right: 50px;
+  padding: 5px;
+}
+
+aside.case-study-sidebar h2 {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+aside.case-study-sidebar h5 {
+  text-transform: none;
+  font-weight: normal;
+  font-size: 0.75em;
+  margin-top: 0;
+}
+
+aside.case-study-sidebar h6 {
+  font-size: 0.75em;
+  margin-top: 0;
+  font-weight: 600;
+}
+
+div.case-study-images {
+  float: left;
+  width: 600px;
+}
